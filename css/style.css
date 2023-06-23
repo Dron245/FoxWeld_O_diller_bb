@@ -1633,6 +1633,11 @@ button.slider-arrow.slider-arrow_next {
   font-size: 16px !important;
 }
 
+.diler .main-content {
+  max-width: 100% !important;
+  z-index: auto !important;
+}
+
 p {
   font-size: 16px;
 }
@@ -2792,6 +2797,11 @@ button.swiper-pagination-bullet {
 
 @media (max-width: 1195px) {
   .o_nas .main-content {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+  }
+
+  .diler .main-content {
     margin-left: 0px !important;
     margin-right: 0px !important;
   }
